@@ -1,0 +1,21 @@
+Encurtador de URL (.NET 8)	
+Projeto desenvolvido com foco em boas práticas de engenharia de software, utilizando Clean Architecture, DDD (Domain-Driven Design) e CQRS (Command Query Responsibility Segregation).
+
+Arquitetura do Projeto
+A arquitetura foi desenhada para isolar a lógica de negócio de frameworks e detalhes de implementação (banco de dados, frameworks web).
+
+Estrutura de Dependências:
+TECH.CORE: Contém as entidades e regras de negócio. Não possui dependências externas.
+
+TECH.APPLICATION: Implementa o CQRS com MediatR, orquestrando o fluxo entre as camadas.
+
+TECH.INFRASTRUCTURE: Responsável pela persistência de dados.
+
+TECH.WEBAPI: Camada de entrada, responsável por expor os endpoints e delegar comandos.
+
+Tecnologias Utilizadas
+.NET 8
+
+MediatR (Padrão CQRS)
+
+xUnit (Testes unitários)
