@@ -1,0 +1,17 @@
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.INFRASTRUCTURE\bin\Debug\net8.0\TECH.INFRASTRUCTURE.deps.json
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.INFRASTRUCTURE\bin\Debug\net8.0\TECH.INFRASTRUCTURE.dll
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.INFRASTRUCTURE\bin\Debug\net8.0\TECH.INFRASTRUCTURE.pdb
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.INFRASTRUCTURE\bin\Debug\net8.0\TECH.APPLICATION.dll
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.INFRASTRUCTURE\bin\Debug\net8.0\TECH.CORE.dll
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.INFRASTRUCTURE\bin\Debug\net8.0\TECH.APPLICATION.pdb
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.INFRASTRUCTURE\bin\Debug\net8.0\TECH.CORE.pdb
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.INFRASTRUCTURE\obj\Debug\net8.0\TECH.INFRASTRUCTURE.csproj.AssemblyReference.cache
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.INFRASTRUCTURE\obj\Debug\net8.0\TECH.INFRASTRUCTURE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.INFRASTRUCTURE\obj\Debug\net8.0\TECH.INFRASTRUCTURE.AssemblyInfoInputs.cache
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.INFRASTRUCTURE\obj\Debug\net8.0\TECH.INFRASTRUCTURE.AssemblyInfo.cs
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.INFRASTRUCTURE\obj\Debug\net8.0\TECH.INFRASTRUCTURE.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.INFRASTRUCTURE\obj\Debug\net8.0\TECH.INFRASTRUCTURE.csproj.CopyComplete
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.INFRASTRUCTURE\obj\Debug\net8.0\TECH.INFRASTRUCTURE.dll
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.INFRASTRUCTURE\obj\Debug\net8.0\refint\TECH.INFRASTRUCTURE.dll
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.INFRASTRUCTURE\obj\Debug\net8.0\TECH.INFRASTRUCTURE.pdb
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.INFRASTRUCTURE\obj\Debug\net8.0\ref\TECH.INFRASTRUCTURE.dll

@@ -1,0 +1,11 @@
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.CORE\bin\Debug\net8.0\TECH.CORE.deps.json
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.CORE\bin\Debug\net8.0\TECH.CORE.dll
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.CORE\bin\Debug\net8.0\TECH.CORE.pdb
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.CORE\obj\Debug\net8.0\TECH.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.CORE\obj\Debug\net8.0\TECH.CORE.AssemblyInfoInputs.cache
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.CORE\obj\Debug\net8.0\TECH.CORE.AssemblyInfo.cs
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.CORE\obj\Debug\net8.0\TECH.CORE.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.CORE\obj\Debug\net8.0\TECH.CORE.dll
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.CORE\obj\Debug\net8.0\refint\TECH.CORE.dll
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.CORE\obj\Debug\net8.0\TECH.CORE.pdb
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.CORE\obj\Debug\net8.0\ref\TECH.CORE.dll

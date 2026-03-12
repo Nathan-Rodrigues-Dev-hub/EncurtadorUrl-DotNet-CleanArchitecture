@@ -1,0 +1,15 @@
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.APPLICATION\bin\Debug\net8.0\TECH.APPLICATION.deps.json
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.APPLICATION\bin\Debug\net8.0\TECH.APPLICATION.dll
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.APPLICATION\bin\Debug\net8.0\TECH.APPLICATION.pdb
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.APPLICATION\bin\Debug\net8.0\TECH.CORE.dll
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.APPLICATION\bin\Debug\net8.0\TECH.CORE.pdb
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.APPLICATION\obj\Debug\net8.0\TECH.APPLICATION.csproj.AssemblyReference.cache
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.APPLICATION\obj\Debug\net8.0\TECH.APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.APPLICATION\obj\Debug\net8.0\TECH.APPLICATION.AssemblyInfoInputs.cache
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.APPLICATION\obj\Debug\net8.0\TECH.APPLICATION.AssemblyInfo.cs
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.APPLICATION\obj\Debug\net8.0\TECH.APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.APPLICATION\obj\Debug\net8.0\TECH.APPLICATION.csproj.CopyComplete
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.APPLICATION\obj\Debug\net8.0\TECH.APPLICATION.dll
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.APPLICATION\obj\Debug\net8.0\refint\TECH.APPLICATION.dll
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.APPLICATION\obj\Debug\net8.0\TECH.APPLICATION.pdb
+C:\Users\Usuario\RiderProjects\EncurtadorURL\TECH.APPLICATION\obj\Debug\net8.0\ref\TECH.APPLICATION.dll
